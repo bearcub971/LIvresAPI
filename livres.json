@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "year": 1997,
+      "genre": "Shonen",
+      "rating": 4.9
+    },
+    {
+      "id": 2,
+      "title": "Naruto",
+      "author": "Masashi Kishimoto",
+      "year": 1999,
+      "genre": "Shonen",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "title": "Death Note",
+      "author": "Tsugumi Ohba & Takeshi Obata",
+      "year": 2003,
+      "genre": "Thriller, Surnaturel",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "title": "Attack on Titan",
+      "author": "Hajime Isayama",
+      "year": 2009,
+      "genre": "Seinen, Action",
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "title": "Dragon Ball",
+      "author": "Akira Toriyama",
+      "year": 1984,
+      "genre": "Shonen",
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "title": "Fullmetal Alchemist",
+      "author": "Hiromu Arakawa",
+      "year": 2001,
+      "genre": "Shonen, Fantasy",
+      "rating": 4.8
+    },
+    {
+      "id": 7,
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "author": "Koyoharu Gotouge",
+      "year": 2016,
+      "genre": "Shonen, Action",
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "title": "My Hero Academia",
+      "author": "Kohei Horikoshi",
+      "year": 2014,
+      "genre": "Shonen, Super-héros",
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "title": "Tokyo Ghoul",
+      "author": "Sui Ishida",
+      "year": 2011,
+      "genre": "Seinen, Horreur",
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "title": "Bleach",
+      "author": "Tite Kubo",
+      "year": 2001,
+      "genre": "Shonen, Action",
+      "rating": 4.3
+    }
+  ]
+  
